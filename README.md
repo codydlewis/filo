@@ -22,6 +22,7 @@ Filo is a robust system designed to streamline folder management and organisatio
 - [Summary](#summary)
 - [Introduction](#introduction)
 - [Specification](#specification)
+- [Example](#example)
 - [Backus–Naur Form Grammar](#backusnaur-form-grammar)
 - [Why use Filo?](#why-use-filo)
 - [FAQ](#faq)
