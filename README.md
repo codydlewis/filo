@@ -1,6 +1,10 @@
 <h1>
-  <img src="./assets/filo-logo-light-mode.svg#gh-light-mode-only" width=180>
-  <img src="./assets/filo-logo-dark-mode.svg#gh-dark-mode-only" width=180>
+    <a href="/#gh-light-mode-only">
+        <img src="./assets/filo-logo-light-mode.svg#gh-light-mode-only" width=180>
+    </a>
+    <a href="/#gh-dark-mode-only">
+        <img src="./assets/filo-logo-dark-mode.svg#gh-dark-mode-only" width=180>
+    </a>
 </h1>
 
 Filo is a robust system designed to streamline folder management and organisation.
